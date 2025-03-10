@@ -68,5 +68,4 @@ if not data.empty:
 
     # Build with love by Saima Waheed
     st.write("Build with ❤️💕 by [Saima Waheed](https://github.com/SaimaWaheed-Student)")
-h="\u2764\ufe0f"
-l="\u0001f602"  
+  
